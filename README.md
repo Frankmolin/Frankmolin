@@ -33,7 +33,8 @@
 
 ###
 
-<img align="right" height="180" src="https://media.licdn.com/dms/image/v2/D4D03AQFBC7aBlGN1Vw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1694031199030?e=1753920000&v=beta&t=PyXVyJLOKRs9Ki6PyvbE_4_y95azdJsuFd-3BNpppuA"  />
+<img align="right" height="180" style="border-radius: 50%;" src="https://media.licdn.com/dms/image/v2/D4D03AQFBC7aBlGN1Vw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1694031199030?e=1753920000&v=beta&t=PyXVyJLOKRs9Ki6PyvbE_4_y95azdJsuFd-3BNpppuA" />
+
 
 ###
 
@@ -41,9 +42,10 @@
   <a href="https://www.linkedin.com/in/franco-molina-jensen/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
-  <a href="frankmolinaj9604@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
-  </a>
+<a href="mailto:frankmolinaj9604@gmail.com" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo" />
+</a>
+
 </div>
 
 ###
